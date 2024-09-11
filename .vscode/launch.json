@@ -1,0 +1,57 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Wrap",
+            "request": "launch",
+            "mainClass": "Wrap",
+            "projectName": "javaPractice_f666e29d"
+        },
+        {
+            "type": "java",
+            "name": "Example",
+            "request": "launch",
+            "mainClass": "Example",
+            "projectName": "javaPractice_f666e29d"
+        },
+        {
+            "type": "java",
+            "name": "Classesandobject",
+            "request": "launch",
+            "mainClass": "Classesandobject",
+            "projectName": "javaPractice_f666e29d"
+        },
+        {
+            "type": "java",
+            "name": "c",
+            "request": "launch",
+            "mainClass": "c",
+            "projectName": "javaPractice_f666e29d"
+        },
+        {
+            "type": "java",
+            "name": "firstobj",
+            "request": "launch",
+            "mainClass": "firstobj",
+            "projectName": "javaPractice_f666e29d"
+        },
+        {
+            "type": "java",
+            "name": "Int Terminal",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "javaPractice_f666e29d"
+        }
+    ]
+}
